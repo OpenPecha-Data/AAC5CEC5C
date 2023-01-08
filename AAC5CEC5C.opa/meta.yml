@@ -1,0 +1,19 @@
+id: AAC5CEC5C
+title: Prayer to Orgyen Rinpoche
+type: translation
+pechas:
+- I9647FBC4
+- ID5BD559D
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:11:25.405392
+  last_modified_at: 2023-01-04 12:11:25.405404
+  collections:
+  - Jamyang Khyentse Chökyi Lodrö Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I9647FBC4/5F9D: A9A8
+  ID5BD559D/F443: A9A8
